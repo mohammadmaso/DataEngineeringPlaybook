@@ -2,7 +2,7 @@
 
 Welcome to the comprehensive Data Engineering Roadmap repository! This project aims to guide aspiring and practicing data engineers through the complex landscape of data engineering, providing a clear path for skill development and career growth.
 
-The Iteractive version of roadmap is in [RoadMap.sh](https://roadmap.sh/r/data-engineer-smdnk)
+The Interactive version of roadmap is in [RoadMap.sh](https://roadmap.sh/r/data-engineer-smdnk)
 
 ## Table of Contents
 
