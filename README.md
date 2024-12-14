@@ -22,7 +22,7 @@ Data Engineering is a rapidly evolving field that plays a crucial role in the da
 Whether you're just starting your journey or looking to expand your existing skills, this roadmap provides a structured approach to learning and development in the field of data engineering.
 
 ## Road-map
-![[Data Engineer - roadmap-min.jpg]]
+![[./assets/Data Engineer - roadmap-min.jpg]]
 ![Data Engineering Road-map](/roadmap.yaml)
 
 This visual roadmap outlines the key areas, technologies, and skills required for data engineering. It's designed to give you a bird's-eye view of the landscape and help you plan your learning journey.
