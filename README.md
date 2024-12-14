@@ -1,8 +1,8 @@
-# Data Engineering Roadmap
+# Data Engineering Road-map
 
 Welcome to the comprehensive Data Engineering Roadmap repository! This project aims to guide aspiring and practicing data engineers through the complex landscape of data engineering, providing a clear path for skill development and career growth.
 
-The Interactive version of roadmap is in [RoadMap.sh](https://roadmap.sh/r/data-engineer-smdnk)
+The Interactive version of road-map is in [RoadMap.sh](https://roadmap.sh/r/data-engineer-smdnk)
 
 ## Table of Contents
 
@@ -17,17 +17,17 @@ The Interactive version of roadmap is in [RoadMap.sh](https://roadmap.sh/r/data-
 
 ## Introduction
 
-Data Engineering is a rapidly evolving field that plays a crucial role in the data-driven world. This roadmap is designed to help individuals navigate the various technologies, tools, and concepts essential for a successful career in data engineering.
+Data Engineering is a rapidly evolving field that plays a crucial role in the data-driven world. This road-map is designed to help individuals navigate the various technologies, tools, and concepts essential for a successful career in data engineering.
 
 Whether you're just starting your journey or looking to expand your existing skills, this roadmap provides a structured approach to learning and development in the field of data engineering.
 
-## Roadmap
-
-![Data Engineering Roadmap](images/roadmap.png)
+## Road-map
+![[Data Engineer - roadmap-min.jpg]]
+![Data Engineering Road-map](/roadmap.yaml)
 
 This visual roadmap outlines the key areas, technologies, and skills required for data engineering. It's designed to give you a bird's-eye view of the landscape and help you plan your learning journey.
 
-You can find the YAML file for this roadmap [here](roadmap.yml), which can be used with roadmap.sh or similar tools for a more interactive experience.
+You can find the YAML file for this road-map [here](roadmap.yaml), which can be used with roadmap.sh or similar tools for a more interactive experience.
 
 ## Getting Started
 
