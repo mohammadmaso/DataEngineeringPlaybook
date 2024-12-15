@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ConceptChecklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ConceptChecklist"
+            }
+          },
+          {
+            "id": "742d78c0bcc12353",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/roadmap.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "roadmap"
             }
           },
           {
@@ -83,7 +95,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,25 +197,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c572498975a2261d",
+  "active": "3cd8b92c46a760ba",
   "lastOpenFiles": [
-    "Untitled.md",
+    "LearnToLearn.md",
+    "assets/roadmap.pdf",
+    "assets/roadmap-min.jpg",
+    "HowToUse.md",
+    "ConceptChecklist.md",
+    "CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md",
+    "README.md",
     "interview-questions",
     "challenges",
     "road-map",
-    "README.md",
     "books",
-    "HOW_TO_USE.md",
     "roadmap.yml.md",
     "roadmap.yaml",
     "web-articles/Untitled",
     "web-articles",
     "research-papers",
-    "projects",
-    "LEARN_TO_LEARN.md",
-    "CONTRIBUTING.md",
-    "CODE_OF_CONDUCT.md",
-    "assets/roadmap.pdf",
-    "assets/roadmap-min.jpg"
+    "projects"
   ]
 }
